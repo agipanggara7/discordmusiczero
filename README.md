@@ -1,1 +1,1 @@
-# discordmusiczero
+# uptime buat bot
